@@ -1,6 +1,8 @@
 # ChefDespensa
 *Aplicativo criado com a finalidade de gerar receitas a partir de ingredientes*
 
+-Foi criado com as seguintes tecnologias: React Native, Firebase Auth, Expo;
+
 -Você está convidado a explorar o Chef de Despensa, o aplicativo que revolucionará a maneira como você encara a preparação das suas refeições. Com recursos intuitivos e uma vasta variedade de receitas, o Chef de Despensa é a chave para uma experiência gastronômica mais fácil e satisfatória.-
 
 -O aplicativo foi criado dentro da SandBox da Expo React Native, dentro de um snack.-
