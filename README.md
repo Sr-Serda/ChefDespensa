@@ -10,3 +10,17 @@
 -Foi Utilizado um Web Crawler para procurar pelas receitas e transformado em um json, que utilizo localmente para gerar as receitas a partir dos ingredientes colocados dentro dos inputs-
 
 -Além disso foi criado uma tela de login e cadastro com a autenticação do google firebase-
+
+**************************************************************************************************************************************
+
+*Application created for the purpose of generating recipes from ingredients*
+
+-It was created with the following technologies: React Native, Firebase Auth, Expo;-
+
+-You are invited to explore the Chef de Despensa, the app that will revolutionize the way you look at preparing your meals. With intuitive features and a vast variety of recipes, the Chef de Despensa is the key to an easier and more satisfying dining experience.-
+
+-The app was created inside the React Native Expo SandBox, inside a snack.-
+
+-A Web Crawler was used to search for the recipes and transformed into a json, which I use locally to generate the recipes from the ingredients placed inside the inputs-
+
+-In addition, a login and registration screen was created with google firebase authentication-
