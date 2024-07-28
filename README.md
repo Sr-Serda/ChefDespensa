@@ -1,3 +1,4 @@
+
 <h1>
   <span style="color: red;">Chefe</span> de Despensa
   <img src="https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/100a3f3d6518e0ce8c08f25594574c33" alt="Logo" style="vertical-align: middle; height: 50px;">
@@ -6,8 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/STATUS%20-%20DESENVOLVIDO-red?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/RELEASEAD%20DATE-%20JULY-red?style=flat-square)
 
-
-*Aplicativo criado com a finalidade de gerar receitas a partir de ingredientes*
+**Aplicativo criado com a finalidade de gerar receitas a partir de ingredientes**
 
 -Foi criado com as seguintes tecnologias: React Native, Firebase Auth, Expo;
 
@@ -32,3 +32,13 @@
 -A Web Crawler was used to search for the recipes and transformed into a json, which I use locally to generate the recipes from the ingredients placed inside the inputs-
 
 -In addition, a login and registration screen was created with google firebase authentication-
+
+
+# 📁 Acesso ao projeto
+**É possível abrir o projeto no sandobox Expo React: https://snack.expo.dev/@guguhcolossal/chefe?platform=android**
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``React Native``
+- ``JavaScript``
+- ``FireBase``
