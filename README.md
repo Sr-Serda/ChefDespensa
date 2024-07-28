@@ -1,4 +1,5 @@
-<h1 align="center"><h1 style="color: red;" align="center">Chef</h1>Despensa</h1> ![image](https://github.com/user-attachments/assets/8bbd8ade-9b24-4fc8-a06c-5833301a574f)
+<h1 align="center"><h1 style="color: red;" align="center">Chef</h1>Despensa</h1> ![100a3f3d6518e0ce8c08f25594574c33](https://github.com/user-attachments/assets/797ed4be-37a5-4418-bf3c-d701dd94430f)
+
 
 *Aplicativo criado com a finalidade de gerar receitas a partir de ingredientes*
 
