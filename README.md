@@ -1,7 +1,11 @@
 <h1>
+  <span style="color: red;">Chefe</span> de Despensa
   <img src="https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/100a3f3d6518e0ce8c08f25594574c33" alt="Logo" style="vertical-align: middle; height: 50px;">
-  <span style="color: red;">chefe</span> de despensa
 </h1>
+
+![Static Badge](https://img.shields.io/badge/STATUS%20-%20DESENVOLVIDO-red?style=flat-square)
+![Static Badge](https://img.shields.io/badge/RELEASEAD%20DATE-%20JULY-red?style=flat-square)
+
 
 *Aplicativo criado com a finalidade de gerar receitas a partir de ingredientes*
 
