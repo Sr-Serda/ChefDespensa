@@ -1,6 +1,6 @@
-<h1 align="center"><h1 style="color: red;" align="center">Chef</h1>Despensa</h1>;
+<h1 align="center"><h1 style="color: red">Chef</h1>Despensa</h1>;<img src="https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/100a3f3d6518e0ce8c08f25594574c33" alt="logo">
 
-<img src="https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/100a3f3d6518e0ce8c08f25594574c33" alt="logo">
+
 *Aplicativo criado com a finalidade de gerar receitas a partir de ingredientes*
 
 -Foi criado com as seguintes tecnologias: React Native, Firebase Auth, Expo;
