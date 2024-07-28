@@ -1,4 +1,5 @@
-# ChefDespensa
+<h1 align="center"><h1 style="color: red;" align="center">Chef</h1>Despensa</h1> ![image](https://github.com/user-attachments/assets/8bbd8ade-9b24-4fc8-a06c-5833301a574f)
+
 *Aplicativo criado com a finalidade de gerar receitas a partir de ingredientes*
 
 -Foi criado com as seguintes tecnologias: React Native, Firebase Auth, Expo;
