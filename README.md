@@ -1,5 +1,13 @@
-<h1 align="center"><h1 style="color: red">Chef</h1>Despensa</h1>;<img src="https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/100a3f3d6518e0ce8c08f25594574c33" alt="logo">
+<style>
+.myDiv {
+  text-align: center;
+}
+</style>
 
+<div class="myDiv">
+  <h1 style="background-color:red;">Chefe</h1><h1> de Despensa</h1>
+  <img src="https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/100a3f3d6518e0ce8c08f25594574c33" alt="logo">
+</div>
 
 *Aplicativo criado com a finalidade de gerar receitas a partir de ingredientes*
 
